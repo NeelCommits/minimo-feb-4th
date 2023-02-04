@@ -1,0 +1,11 @@
+code commenting's shortcut doesn't work
+
+
+fonts
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+
+color-
+
+grey  #626262
+black  #000000
